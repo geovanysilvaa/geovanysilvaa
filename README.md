@@ -1,9 +1,1 @@
-<style>
-  
-</style>
-
-
-
-
-Hi there 👋
-
+<img src="logo.svg" width="200" />
