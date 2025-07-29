@@ -1,9 +1,9 @@
 <style>
-centro{
+h1{
 text:centre;
 }
 </style>
 
 
-<h1 class="centro">aling Hi there 👋</h1> 
+<h1>aling Hi there 👋</h1> 
 
