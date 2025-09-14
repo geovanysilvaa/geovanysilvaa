@@ -8,6 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
 ## 📫 Como me encontrar
 - LinkedIn: sem
