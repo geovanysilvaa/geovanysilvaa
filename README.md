@@ -11,7 +11,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
 ## 📫 Como me encontrar
-- LinkedIn: sem
+- LinkedIn: https://www.linkedin.com/in/geovany-silva-76b0a6233/
 - Email: batistageovany11@gmail.com
 - Site pessoal: sem
 
