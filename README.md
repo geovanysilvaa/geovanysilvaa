@@ -57,9 +57,7 @@ Sou um dev focado em **prática, código limpo e boas práticas**.
 ⚡ Funcionalidades: adicionar, remover, buscar e organizar livros  
 💡 Implementado com **TypeScript**, **lógica procedural** e **OO**
 
-### 🔐 Trabalhos Acadêmicos
-- 🔹 **Segurança da informação:** análise de **comportamentos de risco**  
-- 🔹 **Extensão universitária:** impacto da **universidade na comunidade**
+---
 
 > 🔜 Mais projetos em breve!  
 
