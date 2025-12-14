@@ -1,5 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Desenvolvedor+Web;Apaixonado+por+Código+Limpo)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geovanysilvaa/trinchada-git/5de325d47156e892e854a396ad6a3c689146153e/grok-chatgpt.gif" alt="Grok ChatGPT">
+</p>
+
+
 <h1 align="center">👋 Olá, eu sou <b>Geovany Silva</b></h1>
 <p align="center">
 💻 Desenvolvedor | 🎓 ADS – IFPI | 🚀 Apaixonado por código limpo e tecnologia
