@@ -1,9 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Desenvolvedor+Web;Apaixonado+por+Código+Limpo)
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/geovanysilvaa/trinchada-git/5de325d47156e892e854a396ad6a3c689146153e/grok-chatgpt.gif" alt="Grok ChatGPT" width="300">
-</div>
-
 
 <h1 align="center">👋 Olá, eu sou <b>Geovany Silva</b></h1>
 <p align="center">
@@ -50,9 +46,7 @@ Sou um dev focado em **prática, código limpo e boas práticas**.
 ## 💫 Projetos em Destaque
 
 ### 📚 [Biblioteca Interativa (TypeScript)](https://github.com/Geovanysilvaa/Biblioteca-Interativa)
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOwG7JEQFGC97rcf6/giphy.gif" width="300"/>
-</p>
+
 ✨ Sistema com **categorias, favoritos e leitura de livros**  
 ⚡ Funcionalidades: adicionar, remover, buscar e organizar livros  
 💡 Implementado com **TypeScript**, **lógica procedural** e **OO**
