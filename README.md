@@ -50,7 +50,7 @@ Sou um dev focado em **prática, código limpo e boas práticas**.
 
 ✨ Sistema com **categorias, favoritos e leitura de livros**  
 ⚡ Funcionalidades: adicionar, remover, buscar e organizar livros  
-💡 Implementado com **TypeScript**, **lógica procedural** e **OO**
+💡 Implementado com **TypeScript**, **lógica procedural** e **POO**
 
 ---
 
