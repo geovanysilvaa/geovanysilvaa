@@ -1,25 +1,24 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Desenvolvedor+Web;Apaixonado+por+Código+Limpo)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Foco+em+Backend+e+APIs+REST)
 
 <h1 align="center">👋 Olá, eu sou <b>Geovany Silva</b></h1>
 <p align="center">
-💻 Desenvolvedor | 🎓 ADS – IFPI | 🚀 Apaixonado por código limpo e tecnologia
+💻 Desenvolvedor Full Stack (Backend) | 🎓 ADS – IFPI
 </p>
 <p align="center">
-✨ Criando projetos, aprendendo constantemente e compartilhando conhecimento
+🚀 Focado em prática, código limpo e desenvolvimento de APIs
 </p>
 
 ---
 
 ## 🌌 Sobre mim
 
-Sou um dev focado em **prática, código limpo e boas práticas**.  
-💫 Gosto de desafios, aprendizado contínuo e colaboração.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento Full Stack**, atuando principalmente no **backend**.  
+Trabalho com **JavaScript, TypeScript e SQL**, desenvolvendo **APIs REST** utilizando **Node.js** e **Express**.
 
-- 📚 Estudante de ADS  
-- 🔐 Segurança digital & educação tecnológica  
-- 🧩 Soluções simples, organizadas e eficientes  
-- 🚀 Aberto a colaborações e desafios
+Aplico **arquitetura em camadas** (Controller, Service e Repository) e padrões como **DTO**, seguindo boas práticas de organização e versionamento com **Git e GitHub**.  
+Utilizo **Postman** e **Insomnia** para testes de APIs.
+
+Atualmente, estou em evolução no **frontend** e busco oportunidades de **estágio ou posição júnior**.
 
 ---
 
@@ -27,70 +26,42 @@ Sou um dev focado em **prática, código limpo e boas práticas**.
 
 ### 💻 Linguagens
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Backend & Ferramentas
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 💫 Projetos em Destaque
+### 📚 Biblioteca Interativa (TypeScript)
+🔗 https://github.com/geovanysilvaa/Projeto_biblioteca.git  
 
-### 📚 [Biblioteca Interativa (TypeScript)](https://github.com/geovanysilvaa/Projeto_biblioteca.git)
-
-✨ Sistema com **categorias, favoritos e leitura de livros**  
-⚡ Funcionalidades: adicionar, remover, buscar e organizar livros  
-💡 Implementado com **TypeScript**, **lógica procedural** e **POO**
-
----
-
-> 🔜 Mais projetos em breve!  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geovanysilvaa&show_icons=true&count_private=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanysilvaa&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 💪 Habilidades
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-95%25-yellowgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-85%25-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-90%25-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge"/>
-</p>
+✨ Sistema para gerenciamento de livros  
+⚡ Funcionalidades: adicionar, remover, buscar e organizar  
+💡 Desenvolvido com **TypeScript**, lógica de programação e **POO**
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/geovany-silva-76b0a6233/">LinkedIn</a> | 📧 <a href="mailto:batistageovany11@gmail.com">Email</a> | 🌐 Site: Em construção
+  💼 <a href="https://www.linkedin.com/in/geovany-silva-76b0a6233/">LinkedIn</a> |
+  📧 <a href="mailto:batistageovany11@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil! Aberto a <b>colaborações, desafios e crescimento contínuo</b> 💫
+⭐ Obrigado por visitar meu perfil! Aberto a oportunidades de <b>estágio, desafios e aprendizado contínuo</b>.
 </p>
