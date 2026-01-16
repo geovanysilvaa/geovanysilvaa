@@ -46,15 +46,6 @@ Atualmente, estou em evolução no **frontend** e busco oportunidades de **está
 
 ---
 
-### 📚 Biblioteca Interativa (TypeScript)
-🔗 https://github.com/geovanysilvaa/Projeto_biblioteca.git  
-
-✨ Sistema para gerenciamento de livros  
-⚡ Funcionalidades: adicionar, remover, buscar e organizar  
-💡 Desenvolvido com **TypeScript**, lógica de programação e **POO**
-
----
-
 ## 📫 Contato
 
 <p align="center">
