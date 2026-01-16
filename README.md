@@ -12,13 +12,11 @@
 
 ## 🌌 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento Full Stack**, atuando principalmente no **backend**.  
-Trabalho com **JavaScript, TypeScript e SQL**, desenvolvendo **APIs REST** utilizando **Node.js** e **Express**.
-
-Aplico **arquitetura em camadas** (Controller, Service e Repository) e padrões como **DTO**, seguindo boas práticas de organização e versionamento com **Git e GitHub**.  
-Utilizo **Postman** e **Insomnia** para testes de APIs.
-
-Atualmente, estou em evolução no **frontend** e busco oportunidades de **estágio ou posição júnior**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em desenvolvimento Full Stack, com experiência principalmente em backend.
+Trabalho com JavaScript, TypeScript e SQL, criando APIs REST com Node.js e Express.
+Sigo arquitetura em camadas (Controller, Service, Repository) e boas práticas com Git/GitHub.
+Faço testes de APIs usando Postman e Insomnia.
+Estou evoluindo no frontend e buscando estágio.
 
 ---
 
