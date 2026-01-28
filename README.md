@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Foco+em+Backend+e+APIs+REST)
 
 <h1 align="center">👋 Olá, eu sou <b>Geovany Silva</b></h1>
 <p align="center">
