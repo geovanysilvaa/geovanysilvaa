@@ -11,11 +11,11 @@
 
 ## 🌌 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em desenvolvimento Full Stack, com experiência principalmente em backend.
-Trabalho com JavaScript, TypeScript e SQL, criando APIs REST com Node.js e Express.
-Sigo arquitetura em camadas (Controller, Service, Repository) e boas práticas com Git/GitHub.
-Faço testes de APIs usando Postman e Insomnia.
-Estou evoluindo no frontend e buscando estágio.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPI, com foco em desenvolvimento backend.
+Trabalho principalmente com TypeScript, criando APIs REST com Node.js e Express.
+Tenho prática com arquitetura em camadas (Controller, Service e Repository), uso de bcrypt para segurança de senhas e versionamento com Git/GitHub.
+Realizo testes de APIs com Postman e Insomnia.
+Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio para aplicar e expandir meus conhecimentos.
 
 ---
 
@@ -31,10 +31,43 @@ Estou evoluindo no frontend e buscando estágio.
 
 ---
 
-### 🎨 Tecnologias de Frontend
+### 🎨 Tecnologias de Frontend (em evolução)
 <table align="center"> <tr> <th>Tecnologia</th> <th>Categoria</th> <th>Uso</th> </tr> <tr> <td>JavaScript</td> <td>Linguagem</td> <td>Lógica no navegador e consumo de APIs</td> </tr> <tr> <td>HTML5</td> <td>Marcação</td> <td>Estruturação de páginas</td> </tr> <tr> <td>CSS3</td> <td>Estilo</td> <td>Layout, responsividade e design básico</td> </tr> </table>
 
 ---
+
+## 📋 Levantamento de Requisitos
+- Identificação de requisitos funcionais e não funcionais
+- Análise de regras de negócio
+- Organização dos requisitos para apoiar o desenvolvimento do sistema
+
+## 📐 Modelagem de Sistemas (UML)
+- Diagrama de Casos de Uso
+- Diagrama de Classes
+- Diagrama Entidade-Relacionamento (DER)
+- Modelagem de banco de dados a partir dos requisitos
+
+---
+
+## 🔐 Segurança
+- Hash de senhas com bcrypt
+- Comparação segura de senhas no login
+- Boas práticas básicas de segurança em APIs
+
+## 🧱 Arquitetura
+- Arquitetura em camadas (Controller, Service, Repository)
+- Separação de responsabilidades
+- Código organizado e manutenível
+
+---
+
+## 💼 Experiência
+
+### Projetos Acadêmicos
+- Desenvolvimento de APIs REST em projetos acadêmicos e pessoais
+- Aplicação de arquitetura em camadas e boas práticas de organização de código
+- Implementação de regras de negócio e persistência de dados
+- Participação em todas as etapas do desenvolvimento: requisitos, modelagem, implementação e testes
 
 ## 📫 Contato
 
