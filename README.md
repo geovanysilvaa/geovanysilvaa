@@ -31,6 +31,33 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 
 ---
 
+### 🧰 Ferramentas & Versionamento
+<table align="center">
+  <tr>
+    <th>Ferramenta</th>
+    <th>Categoria</th>
+    <th>Uso</th>
+  </tr>
+  <tr>
+    <td>VS Code</td>
+    <td>Editor</td>
+    <td>Desenvolvimento e depuração de código</td>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td>Versionamento</td>
+    <td>Controle de versões e histórico de código</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Plataforma</td>
+    <td>Hospedagem de repositórios e portfólio</td>
+  </tr>
+</table>
+
+
+---
+
 ### 🎨 Tecnologias de Frontend (em evolução)
 <table align="center"> <tr> <th>Tecnologia</th> <th>Categoria</th> <th>Uso</th> </tr> <tr> <td>JavaScript</td> <td>Linguagem</td> <td>Lógica no navegador e consumo de APIs</td> </tr> <tr> <td>HTML5</td> <td>Marcação</td> <td>Estruturação de páginas</td> </tr> <tr> <td>CSS3</td> <td>Estilo</td> <td>Layout, responsividade e design básico</td> </tr> </table>
 
