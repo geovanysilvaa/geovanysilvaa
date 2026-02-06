@@ -94,7 +94,7 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 - Desenvolvimento de APIs REST em projetos acadêmicos e pessoais
 - Aplicação de arquitetura em camadas e boas práticas de organização de código
 - Implementação de regras de negócio e persistência de dados
-- Participação em todas as etapas do desenvolvimento: requisitos, modelagem, implementação e testes
+- Experiência com projetos do zero, desde o levantamento de requisitos até a entrega da API.
 
 ## 📫 Contato
 
