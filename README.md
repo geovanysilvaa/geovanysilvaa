@@ -22,24 +22,17 @@ Estou evoluindo no frontend e buscando estágio.
 ## 🚀 Tecnologias & Ferramentas
 
 ### 💻 Linguagens
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+<table align="center"> <tr> <th>Linguagem</th> <th>Uso principal</th> <th>Contexto</th> </tr> <tr> <td>TypeScript</td> <td>Backend</td> <td>APIs REST com Node.js e Express</td> </tr> <tr> <td>JavaScript</td> <td>Frontend / Base da linguagem</td> <td>Fundamentos e projetos em evolução</td> </tr> <tr> <td>SQL</td> <td>Banco de Dados</td> <td>Modelagem e consultas (MySQL / PostgreSQL)</td> </tr> </table>
 
-### 🛠️ Backend & Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
+---
+
+### 🛠️ Ferramentas de Backend
+<table align="center"> <tr> <th>Ferramenta</th> <th>Categoria</th> <th>Uso</th> </tr> <tr> <td>Node.js</td> <td>Runtime</td> <td>Execução do backend em TypeScript</td> </tr> <tr> <td>Express</td> <td>Framework</td> <td>Criação de APIs REST</td> </tr> <tr> <td>Prisma</td> <td>ORM</td> <td>Mapeamento e acesso ao banco de dados</td> </tr> <tr> <td>MySQL</td> <td>Banco de Dados</td> <td>Banco relacional em produção e testes</td> </tr> <tr> <td>PostgreSQL</td> <td>Banco de Dados</td> <td>Banco relacional com foco em escalabilidade</td> </tr> <tr> <td>Postman</td> <td>Testes de API</td> <td>Validação de rotas e requisições HTTP</td> </tr> <tr> <td>Insomnia</td> <td>Testes de API</td> <td>Alternativa leve para testes de endpoints</td> </tr> </table>
+
+---
+
+### 🎨 Tecnologias de Frontend
+<table align="center"> <tr> <th>Tecnologia</th> <th>Categoria</th> <th>Uso</th> </tr> <tr> <td>JavaScript</td> <td>Linguagem</td> <td>Lógica no navegador e consumo de APIs</td> </tr> <tr> <td>HTML5</td> <td>Marcação</td> <td>Estruturação de páginas</td> </tr> <tr> <td>CSS3</td> <td>Estilo</td> <td>Layout, responsividade e design básico</td> </tr> </table>
 
 ---
 
