@@ -83,6 +83,9 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 
 ### Projetos Acadêmicos
 <table align="center"> <tr> <th>Categoria</th> <th>Descrição</th> </tr> <tr> <td>Projetos Acadêmicos</td> <td>Desenvolvimento de APIs REST com arquitetura em camadas</td> </tr> <tr> <td>Regras de Negócio</td> <td>Implementação e validação de lógica no backend</td> </tr> <tr> <td>Persistência</td> <td>Integração com bancos relacionais usando Prisma</td> </tr> <tr> <td>Projeto do Zero</td> <td>Levantamento de requisitos até entrega da API funcional</td> </tr> </table>
+
+---
+
 ## 📫 Contato
 
 <p align="center">
