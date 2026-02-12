@@ -64,38 +64,25 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 ---
 
 ## 📋 Levantamento de Requisitos
-- Identificação de requisitos funcionais e não funcionais
-- Análise de regras de negócio
-- Organização dos requisitos para apoiar o desenvolvimento do sistema
+<table align="center"> <tr> <th>Área</th> <th>Descrição</th> </tr> <tr> <td>Requisitos Funcionais</td> <td>Definição das funcionalidades que o sistema deve executar</td> </tr> <tr> <td>Requisitos Não Funcionais</td> <td>Desempenho, segurança, escalabilidade e restrições técnicas</td> </tr> <tr> <td>Regras de Negócio</td> <td>Definição das regras que controlam o comportamento do sistema</td> </tr> <tr> <td>Organização</td> <td>Estruturação dos requisitos para apoiar modelagem e desenvolvimento</td> </tr> </table>
 
 ## 📐 Modelagem de Sistemas (UML)
-- Diagrama de Casos de Uso
-- Diagrama de Classes
-- Diagrama Entidade-Relacionamento (DER)
-- Modelagem de banco de dados a partir dos requisitos
+<table align="center"> <tr> <th>Diagrama</th> <th>Finalidade</th> </tr> <tr> <td>Casos de Uso</td> <td>Representar interação entre usuários e sistema</td> </tr> <tr> <td>Classes</td> <td>Modelar estrutura, atributos e métodos do sistema</td> </tr> <tr> <td>DER</td> <td>Modelar entidades e relacionamentos do banco de dados</td> </tr> <tr> <td>Modelagem de Banco</td> <td>Estruturação do banco a partir dos requisitos levantados</td> </tr> </table>
 
 ---
 
 ## 🔐 Segurança
-- Hash de senhas com bcrypt
-- Comparação segura de senhas no login
-- Boas práticas básicas de segurança em APIs
+<table align="center"> <tr> <th>Prática</th> <th>Descrição</th> </tr> <tr> <td>Hash de Senhas</td> <td>Criptografia de senhas utilizando bcrypt</td> </tr> <tr> <td>Validação no Login</td> <td>Comparação segura de hash para autenticação</td> </tr> <tr> <td>Boas Práticas</td> <td>Estruturação segura de rotas e manipulação de dados sensíveis</td> </tr> </table>
 
 ## 🧱 Arquitetura
-- Arquitetura em camadas (Controller, Service, Repository)
-- Separação de responsabilidades
-- Código organizado e manutenível
+<table align="center"> <tr> <th>Camada</th> <th>Responsabilidade</th> </tr> <tr> <td>Controller</td> <td>Receber requisições HTTP e retornar respostas</td> </tr> <tr> <td>Service</td> <td>Implementar regras de negócio</td> </tr> <tr> <td>Repository</td> <td>Comunicação e persistência no banco de dados</td> </tr> <tr> <td>Separação de Responsabilidades</td> <td>Código organizado, manutenível e escalável</td> </tr> </table>
 
 ---
 
 ## 💼 Experiência
 
 ### Projetos Acadêmicos
-- Desenvolvimento de APIs REST em projetos acadêmicos e pessoais
-- Aplicação de arquitetura em camadas e boas práticas de organização de código
-- Implementação de regras de negócio e persistência de dados
-- Experiência com projetos do zero, desde o levantamento de requisitos até a entrega da API.
-
+<table align="center"> <tr> <th>Categoria</th> <th>Descrição</th> </tr> <tr> <td>Projetos Acadêmicos</td> <td>Desenvolvimento de APIs REST com arquitetura em camadas</td> </tr> <tr> <td>Regras de Negócio</td> <td>Implementação e validação de lógica no backend</td> </tr> <tr> <td>Persistência</td> <td>Integração com bancos relacionais usando Prisma</td> </tr> <tr> <td>Projeto do Zero</td> <td>Levantamento de requisitos até entrega da API funcional</td> </tr> </table>
 ## 📫 Contato
 
 <p align="center">
