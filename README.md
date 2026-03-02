@@ -22,7 +22,28 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 ## 🚀 Tecnologias & Ferramentas
 
 ### 💻 Linguagens
-<table align="center"> <tr> <th>Linguagem</th> <th>Uso principal</th> <th>Contexto</th> </tr> <tr> <td>TypeScript</td> <td>Backend</td> <td>APIs REST com Node.js e Express</td> </tr> <tr> <td>JavaScript</td> <td>Frontend / Base da linguagem</td> <td>Fundamentos e projetos em evolução</td> </tr> <tr> <td>SQL</td> <td>Banco de Dados</td> <td>Modelagem e consultas (MySQL / PostgreSQL)</td> </tr> </table>
+<table align="center">
+  <tr> 
+    <th>Linguagem</th> 
+    <th>Uso principal</th> 
+    <th>Contexto</th> 
+  </tr> 
+  <tr> 
+    <td>TypeScript</td> 
+    <td>Backend</td> 
+    <td>APIs REST com Node.js e Express</td> 
+  </tr> 
+  <tr> 
+    <td>JavaScript</td> 
+    <td>Frontend / Base da linguagem</td> 
+    <td>Fundamentos e projetos em evolução</td> 
+  </tr> 
+  <tr> 
+    <td>SQL</td> 
+    <td>Banco de Dados</td>
+    <td>Modelagem e consultas (MySQL / PostgreSQL)</td> 
+  </tr> 
+</table>
 
 ---
 
@@ -55,7 +76,6 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
   </tr>
 </table>
 
-
 ---
 
 ### 🎨 Tecnologias de Frontend (em evolução)
@@ -82,7 +102,28 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 ## 💼 Experiência
 
 ### Projetos Acadêmicos
-<table align="center"> <tr> <th>Categoria</th> <th>Descrição</th> </tr> <tr> <td>Projetos Acadêmicos</td> <td>Desenvolvimento de APIs REST com arquitetura em camadas</td> </tr> <tr> <td>Regras de Negócio</td> <td>Implementação e validação de lógica no backend</td> </tr> <tr> <td>Persistência</td> <td>Integração com bancos relacionais usando Prisma</td> </tr> <tr> <td>Projeto do Zero</td> <td>Levantamento de requisitos até entrega da API funcional</td> </tr> </table>
+<table align="center">
+  <tr>
+    <th>Categoria</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td>Projetos Acadêmicos</td>
+    <td>Desenvolvimento de APIs REST com arquitetura em camadas</td>
+  </tr> 
+  <tr> 
+    <td>Regras de Negócio</td> 
+    <td>Implementação e validação de lógica no backend</td> 
+  </tr> 
+  <tr> 
+    <td>Persistência</td>
+    <td>Integração com bancos relacionais usando Prisma</td>
+  </tr> 
+  <tr> 
+    <td>Projeto do Zero</td> 
+    <td>Levantamento de requisitos até entrega da API funcional</td> 
+  </tr> 
+</table>
 
 ---
 
