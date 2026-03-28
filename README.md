@@ -130,8 +130,7 @@ Atualmente estou evoluindo no frontend e buscando uma oportunidade de estágio p
 ## 📫 Contato
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/geovany-silva-76b0a6233/">LinkedIn</a> |
-  📧 <a href="mailto:batistageovany11@gmail.com">Email</a>
+  💼 <a href="https://www.linkedin.com/in/geovany-silva-76b0a6233/">LinkedIn</a> 
 </p>
 
 ---
